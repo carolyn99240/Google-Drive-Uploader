@@ -9,7 +9,7 @@ MEGA_EMAIL = "bearyan8@yandex.com"
 MEGA_PASSWORD = "bearyan8@yandex.com"
 
 
-START = " Hi {}  \nI am Drive Uploader Bot . Please Authorise To use me .By using /auth \n\n For more info /help \n\n Third-Party Website \n Support Added /update \n\n For Bot Updates  \n <a href ='https://t.me/aryan_bots'>Join Channel</a>\nPlease Report Bugs  @aryanvikash"
+START = " Hi {}  \nI am Drive Uploader Bot . Please Authorise To use me .By using /auth \n\n For more info /help \n\n Third-Party Website \n Support Added /update"
 
 HELP = """   <b>AUTHORISE BOT</b> 
        Use  /auth Command Generate
@@ -32,7 +32,7 @@ HELP = """   <b>AUTHORISE BOT</b>
             
             + More On Its way:)
                 
-Bug Report @aryanvikash
+Bug Report @Requesting Group...
         """
 DP_DOWNLOAD = "Dropbox Link !! Downloading Started ..."
 OL_DOWNLOAD = "Openload Link !! Downloading Started ... \n Openload Links Are Extremely Slow"
